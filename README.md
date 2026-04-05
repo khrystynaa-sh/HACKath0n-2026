@@ -44,7 +44,7 @@ A web-based tool for automated parsing, analysis, and 3D visualization of ArduPi
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/your-team/uav-telemetry-analyzer.git](https://github.com/khrystynaa-sh/HACKath0n-2026.git)
+git clone [https://github.com/khrystynaa-sh/HACKath0n-2026.git]
 cd HACKath0n-2026
 ```
 
